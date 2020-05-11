@@ -1,0 +1,8 @@
+JDBC - 
+
+1. Driver - DB Provider
+2. DriverManager  - JDBC Framework
+3. Connection -- DM provides 
+4. Statement - Query on this connection
+5. ResultSet - Handle the result 
+6. SQLException - DB Related Exceptions

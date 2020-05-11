@@ -1,0 +1,10 @@
+Interface Called Rule -- execute()
+Abstract Class called Client :
+	- abstract hasInsurance()
+	- validateClient() 
+		-- validate FirstName and LastName 
+
+Three Rules - 
+1. Non Smoking client
+2. Smoking Client
+3. Politically Exposed Clients

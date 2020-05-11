@@ -1,0 +1,35 @@
+Collection 
+
+colors = {"red", "blue","yellow" }
+
+colors.add() --> adds element to my collection
+colors.add("brown")
+colors = {"red", "blue","yellow", "brown" }
+
+colors.remove("red")
+colors = {"blue","yellow", "brown" }
+
+Iterate
+
+for eachColor in colors:
+	Sysout(eachColor)
+
+colors.clear() --> wipe out everything from collection
+colors = {}
+
+colors.contains("blue") ==> true
+colors.contains("violet") ==> false
+
+int length = colors.size() --> Size of collection
+
+
+
+Queue q1 = {A,B,C,D}
+Queue q2 = {}
+
+
+Deque d1 = {}
+
+
+
+
