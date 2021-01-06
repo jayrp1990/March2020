@@ -1,4 +1,4 @@
-package com.h2kinfosys.learn.dayFive;
+package com.learn.dayFive;
 
 public class TestInheritance {
 
